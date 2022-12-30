@@ -1,0 +1,3 @@
+clientId: 77chasnu8at368uiqpfv6ql4u9
+userpoolId: us-east-1_h3Zpsigrz
+domain: https://schoolmanagement.auth.us-east-1.amazoncognito.com
